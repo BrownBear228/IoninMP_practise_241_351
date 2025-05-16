@@ -22,4 +22,4 @@
 
 ## OWASP Top 10 по состоянию на 2021 год
 
-![OWASP Top 10](./src/images/owasp_top_ten.png)
+![OWASP Top 10](/src/images/owasp_top_ten.png)
